@@ -6,8 +6,8 @@ Note: This repo is still under construction, however you can use the installatio
 - Ubuntu 22.04+ 64 Bit: can be installed with [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
 
 # Install
+1. Clone the repository and go into the directory.
+2. Run the following command:
 ```
-sudo apt update && sudo apt install -y git g++ build-essential python3-pip
-python3 -m pip install torch numpy sentencepiece
-git clone https://github.com/ggerganov/llama.cpp && cd llama.cpp && make
+chmod +x install.sh && sudo ./install.sh
 ```
