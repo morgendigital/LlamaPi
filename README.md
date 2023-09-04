@@ -3,7 +3,7 @@ Note: This repo is still under construction, however you can use the installatio
 
 # Recommendations
 - Raspberry Pi 4 with 8GB RAM (slower is possible, but only the 8GB RAM model can run quantized 7B models).
-- Ubuntu 22.04+ 64 Bit (can be installed with [Raspberry Pi Imager](https://www.raspberrypi.com/software/))
+- Ubuntu 22.04+ 64 Bit: can be installed with [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
 
 # Install
 ```
